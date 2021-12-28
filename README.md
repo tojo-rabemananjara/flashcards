@@ -1,6 +1,6 @@
 # To Run
 
-Go to `https://tojo-flashcards.surge.sh`
+Go to https://tojo-flashcards.surge.sh
 
 # State
 
