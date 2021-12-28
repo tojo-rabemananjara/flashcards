@@ -1,6 +1,6 @@
 # To Run
 
-Run `npm start` in the project root and the app will be available on port 3000.
+Go to `https://tojo-flashcards.surge.sh`
 
 # State
 
